@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="egm_rws_driver" type="irb140_rws" name="irb140_rws" output="screen">     
+    </node>
+    <node pkg="egm_rws_driver" type="irb140_egm" name="irb140_egm" output="screen">     
+    </node>
+    <!-- <node pkg="egm_rws_driver" type="transformation.py" name="transformation" output="screen">      -->
+    <!-- </node> -->
+    <!-- <node pkg="egm_rws_driver" type="position_profile.py" name="position_profile" output="screen">      -->
+    <!-- </node> -->
+</launch>
