@@ -1,5 +1,5 @@
-Masteroppgave Høsten 2020 UiS
-Ruben Møller Kristiansen
+Masteroppgave Høsten 2020 UiS<br>
+Ruben Møller Kristiansen<br>
 # Deteksjon av sirkulære objekter i bevegelse ved hjelp av maskinsyn
 
 ##Sammendrag
