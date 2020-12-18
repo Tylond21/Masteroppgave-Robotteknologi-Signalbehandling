@@ -1,5 +1,5 @@
 Masteroppgave Høsten 2020<br> Universitetet i Stavanger<br>
-Forfatter: Ruben Møller Kristiansen<br>
+Ruben Møller Kristiansen<br>
 # Deteksjon av sirkulære objekter i bevegelse ved hjelp av maskinsyn
 
 #### Sammendrag
